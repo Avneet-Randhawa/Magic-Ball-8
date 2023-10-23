@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 body{
-    height: 100vh;
-    width: 100vw;
-    overflow: hidden;
     background-color: rgb(211, 30, 30);
 }
 .out-circle{
